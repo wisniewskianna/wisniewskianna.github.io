@@ -1,0 +1,20 @@
+
+html { 
+  background: url(zebra.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
