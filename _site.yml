@@ -9,6 +9,8 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
+    - text: "Outreach"
+      href: outreach.html
       
 output:
   html_document:
