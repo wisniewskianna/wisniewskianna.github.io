@@ -10,7 +10,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Outreach"
-      href: outreach.html
+      href: Outreach.html
       
 output:
   html_document:
