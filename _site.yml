@@ -1,0 +1,9 @@
+name: "annas-website"
+output_dir: "."
+navbar:
+  title: "Anna Wisniewski"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
