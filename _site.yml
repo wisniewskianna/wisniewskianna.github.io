@@ -11,6 +11,9 @@ navbar:
       href: research.html
     - text: "Outreach"
       href: Outreach.html
+    - text: "Publications"
+      href: Publications.html
+      
       
 output:
   html_document:
