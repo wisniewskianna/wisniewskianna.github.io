@@ -4,7 +4,7 @@ title: "About Me"
 
 <font size="3" color="grey">
 
-I am a graduate student at the Department of Geophysical Sciences at the University of Chicago. I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
+I am a graduate student in the  [Department of the Geophysical Sciences](https://geosci.uchicago.edu) at the University of Chicago. I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
 When I'm not working in museum collections, you can find me swimming in Lake Michigan or running along the Lakefront Trail. 
 
 </font>
