@@ -15,6 +15,9 @@ navbar:
       href: Publications.html
     - icon: fa-twitter fa-lg
       href: http://twitter.com/annalwisniewski
+    - icon: fa-github fa-lg
+      href: https://github.com/wisniewskianna
+  
       
 output:
   html_document:
