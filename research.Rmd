@@ -2,6 +2,10 @@
 title: "Research"
 ---
 
+<font size="3" color="grey">
+
 -Primate phylogenetics and historical biogeography
 
 -Fossil and modern horse phylogenetics and ecomorphology
+
+</font>

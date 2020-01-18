@@ -2,8 +2,13 @@
 title: "About Me"
 ---
 
+<font size="3" color="grey">
+
 I am a graduate student at the Department of Geophysical Sciences at the University of Chicago. I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
 When I'm not working in museum collections, you can find me swimming in Lake Michigan or running along the Lakefront Trail. 
+
+</font>
+
 
 
 ![](anna_4_3.jpg) ![](reading.jpg)
