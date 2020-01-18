@@ -7,17 +7,19 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Outreach"
+      href: Outreach.html 
     - text: "Research"
       href: research.html
-    - text: "Outreach"
-      href: Outreach.html
     - text: "Publications"
       href: Publications.html
+  right:
     - icon: fa-twitter fa-lg
       href: http://twitter.com/annalwisniewski
     - icon: fa-github fa-lg
       href: https://github.com/wisniewskianna
-  
+    - icon: fa-envelope
+      href: mailto:wisniewski@uchicago.edu
       
 output:
   html_document:
