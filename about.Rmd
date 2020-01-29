@@ -1,6 +1,5 @@
----
-title: "About Me"
----
+
+***
 
 <font size="3" color="grey">
 
@@ -9,4 +8,9 @@ When I'm not working in museum collections, you can find me swimming in Lake Mic
 
 </font>
 
-![](anna_4_3.jpg) ![](reading.jpg)
+<img style="float: center;" src="anna_4_3.jpg">
+
+<img style="float: center;" src="reading.jpg">
+
+
+
