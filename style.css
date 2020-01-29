@@ -13,3 +13,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+<style>
+.blue-outline {
+   background-color: #9ecff7;
+   padding:10px;
+   display: inline-block;
+}
+</style>
