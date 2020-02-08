@@ -1,10 +1,9 @@
+
 name: "annas-website"
 output_dir: "."
 navbar:
   title: "Anna Wisniewski"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
       href: about.html
     - text: "Outreach"
@@ -20,6 +19,8 @@ navbar:
       href: https://github.com/wisniewskianna
     - icon: fa-envelope
       href: mailto:wisniewski@uchicago.edu
+    - icon: fa-phoenix
+      href:
       
 output:
   html_document:
