@@ -3,12 +3,27 @@
 
 <font size="3" color="grey">
 
-I am a graduate student in the  [Department of the Geophysical Sciences](https://geosci.uchicago.edu) at the University of Chicago. I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
+I am a PhD student in the [Department of the Geophysical Sciences](https://geosci.uchicago.edu) at the University of Chicago with the [Slater lab](http://fourdimensionalbiology.com). I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
 When I'm not working in museum collections, you can find me swimming in Lake Michigan or running along the Lakefront Trail. 
 
 </font>
+
 
 <img style="float: center;" src="anna_4_3.jpg">
 
 <img style="float: center;" src="reading.jpg">
 
+***
+
+<font size="4" color="darkslategrey">
+Education
+</font>
+
+<font size="3" color="grey">
+
+B.S. Molecular & Cellular Biology, Johns Hopkins University 2018
+
+
+</font>
+
+***
