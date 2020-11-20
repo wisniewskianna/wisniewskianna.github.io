@@ -3,7 +3,7 @@
 
 <font size="3" color="grey">
 
-I am a PhD student in the [Department of the Geophysical Sciences](https://geosci.uchicago.edu) at the University of Chicago with the [Slater lab](http://fourdimensionalbiology.com). I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
+I am a PhD candidate in the [Department of the Geophysical Sciences](https://geosci.uchicago.edu) at the University of Chicago with the [Slater lab](http://fourdimensionalbiology.com). I am interested broadly in mammalian phylogenetics, paleobiology and ecomorphology. 
 When I'm not working in museum collections, you can find me swimming in Lake Michigan or running along the Lakefront Trail. 
 
 </font>
